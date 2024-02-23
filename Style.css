@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+h1,h2 {
+    color: #4908d7;
+
+}
+h2{
+   border-bottom: 2px solid #333;
+}
+
+p {
+    margin-bottom: 10px;
+}
+strong {
+    color: #0066cc;
+}
+
+li {
+    margin-bottom: 5px;
+}
+.date {
+   color:#4311c4
+}
